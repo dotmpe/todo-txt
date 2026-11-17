@@ -47,5 +47,6 @@
 
   Furthermore embedding or (ASCII/unicode) harnassing can be more formally defined perhaps.
 
-  Add document level metadata, in markdown-esque '---' surrounded YAML blocks.
+  Add document level metadata, in markdown-esque '---' surrounded YAML blocks.)
 
+(A) 2026-11-17 TODO: review interesting open issues on todo.txt
